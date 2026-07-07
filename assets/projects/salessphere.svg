@@ -1,0 +1,28 @@
+<svg width="1200" height="640" viewBox="0 0 1200 640" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">SalesSphere golden atlas poster</title>
+  <desc id="desc">A premium poster composition for SalesSphere centered on a golden revenue atlas and rising forecast line.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="640"><stop stop-color="#0D0A06"/><stop offset=".52" stop-color="#111720"/><stop offset="1" stop-color="#050608"/></linearGradient>
+    <linearGradient id="gold" x1="230" y1="520" x2="1040" y2="108"><stop stop-color="#8C5A2B"/><stop offset=".4" stop-color="#D6A85C"/><stop offset="1" stop-color="#F8D57E"/></linearGradient>
+    <radialGradient id="glow" cx="50%" cy="50%" r="50%"><stop stop-color="#D6A85C" stop-opacity=".4"/><stop offset=".58" stop-color="#D6A85C" stop-opacity=".13"/><stop offset="1" stop-color="#050608" stop-opacity="0"/></radialGradient>
+    <filter id="blur" x="-25%" y="-25%" width="150%" height="150%"><feGaussianBlur stdDeviation="42"/></filter>
+    <style>.k{font:700 12px Arial,sans-serif;letter-spacing:4px}.h{font:700 84px Arial,sans-serif}.metric{font:700 34px Arial,sans-serif}.small{font:600 15px Arial,sans-serif;letter-spacing:2px}.ghost{font:700 150px Arial,sans-serif;letter-spacing:-8px}</style>
+  </defs>
+  <rect width="1200" height="640" rx="36" fill="url(#bg)"/>
+  <ellipse cx="790" cy="238" rx="370" ry="190" fill="url(#glow)" filter="url(#blur)">
+    <animate attributeName="cy" values="210;270;210" dur="18s" repeatCount="indefinite"/>
+  </ellipse>
+  <text x="80" y="86" class="k" fill="#E8C875">SALESSPHERE</text>
+  <text x="78" y="198" class="h" fill="#F7F8FA">Revenue</text>
+  <text x="78" y="290" class="h" fill="#F7F8FA">has shape.</text>
+  <text x="82" y="370" class="metric" fill="#F7F8FA">Rs 12.4M</text>
+  <text x="84" y="406" class="small" fill="#7EE787">+18.4% FORECAST</text>
+  <path d="M440 436L530 318L646 376L760 248L884 286L1030 142" stroke="url(#gold)" stroke-width="7" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="0 900">
+    <animate attributeName="stroke-dasharray" values="0 900;900 0" dur="3.8s" fill="freeze"/>
+  </path>
+  <path d="M536 440L604 356L706 390L778 310L864 336L970 246L1036 288L1000 458L786 516L642 486Z" fill="#E8C875" fill-opacity=".11" stroke="#E8C875" stroke-opacity=".42"/>
+  <circle cx="760" cy="248" r="10" fill="#F8D57E"/>
+  <circle cx="1030" cy="142" r="8" fill="#F8D57E"/>
+  <text x="928" y="560" class="ghost" fill="#FFFFFF" fill-opacity=".035">ZS</text>
+  <!-- inspect: one memorable thing: the golden revenue atlas -->
+</svg>

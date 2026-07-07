@@ -1,0 +1,10 @@
+<svg width="1200" height="420" viewBox="0 0 1200 420" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">GitHub metrics placeholder</title>
+  <desc id="desc">This placeholder is replaced automatically by the profile metrics workflow.</desc>
+  <rect width="1200" height="420" rx="36" fill="#050608"/>
+  <text x="80" y="108" fill="#7DE7E0" style="font:700 12px Arial,sans-serif;letter-spacing:4px">ENGINEERING IN NUMBERS</text>
+  <text x="78" y="212" fill="#F7F8FA" style="font:700 72px Arial,sans-serif">Metrics wake up</text>
+  <text x="78" y="292" fill="#F7F8FA" style="font:700 72px Arial,sans-serif">on first run.</text>
+  <path d="M720 290C820 190 912 300 1040 154" stroke="#7DE7E0" stroke-width="5" stroke-linecap="round" opacity=".7"/>
+  <text x="924" y="382" fill="#FFFFFF" fill-opacity=".035" style="font:700 130px Arial,sans-serif;letter-spacing:-8px">ZS</text>
+</svg>

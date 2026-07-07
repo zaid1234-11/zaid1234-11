@@ -1,0 +1,11 @@
+<svg width="1200" height="260" viewBox="0 0 1200 260" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Contribution snake placeholder</title>
+  <desc id="desc">This placeholder is replaced automatically by the contribution snake workflow.</desc>
+  <rect width="1200" height="260" rx="36" fill="#050608"/>
+  <text x="80" y="104" fill="#7DE7E0" style="font:700 12px Arial,sans-serif;letter-spacing:4px">CONTRIBUTION FLOW</text>
+  <path d="M82 170C214 96 334 220 474 150C640 68 772 202 1018 104" stroke="#7DE7E0" stroke-width="5" stroke-linecap="round"/>
+  <circle cx="82" cy="170" r="8" fill="#7DE7E0"/>
+  <circle cx="474" cy="150" r="8" fill="#A996FF"/>
+  <circle cx="1018" cy="104" r="8" fill="#E8C875"/>
+  <text x="944" y="226" fill="#FFFFFF" fill-opacity=".035" style="font:700 110px Arial,sans-serif;letter-spacing:-8px">ZS</text>
+</svg>

@@ -1,0 +1,40 @@
+<svg width="240" height="240" viewBox="0 0 240 240" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Zaid Saifi identity mark</title>
+  <desc id="desc">A minimal rotating monogram built from precise glass-like geometry.</desc>
+  <defs>
+    <radialGradient id="logo-aura" cx="50%" cy="42%" r="58%">
+      <stop offset="0" stop-color="#7DE7E0" stop-opacity=".55"/>
+      <stop offset=".42" stop-color="#7AA7FF" stop-opacity=".18"/>
+      <stop offset="1" stop-color="#050608" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="logo-stroke" x1="48" y1="34" x2="196" y2="202">
+      <stop stop-color="#F7F8FA"/>
+      <stop offset=".42" stop-color="#8FEAE4"/>
+      <stop offset=".72" stop-color="#A996FF"/>
+      <stop offset="1" stop-color="#E8C875"/>
+    </linearGradient>
+    <linearGradient id="logo-glass" x1="70" y1="48" x2="170" y2="194">
+      <stop stop-color="#FFFFFF" stop-opacity=".34"/>
+      <stop offset=".5" stop-color="#FFFFFF" stop-opacity=".08"/>
+      <stop offset="1" stop-color="#FFFFFF" stop-opacity=".18"/>
+    </linearGradient>
+    <filter id="logo-soft-glow" x="-45%" y="-45%" width="190%" height="190%" color-interpolation-filters="sRGB">
+      <feGaussianBlur stdDeviation="12" result="blur"/>
+      <feColorMatrix in="blur" type="matrix" values="0 0 0 0 0.49 0 0 0 0 0.91 0 0 0 0 0.88 0 0 0 .5 0"/>
+      <feBlend in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <rect width="240" height="240" rx="56" fill="#050608"/>
+  <circle cx="120" cy="112" r="104" fill="url(#logo-aura)"/>
+  <g filter="url(#logo-soft-glow)">
+    <g transform-origin="120 120">
+      <animateTransform attributeName="transform" type="rotate" from="0 120 120" to="360 120 120" dur="42s" repeatCount="indefinite"/>
+      <path d="M70 72H166L78 168H172" stroke="url(#logo-stroke)" stroke-width="16" stroke-linecap="round" stroke-linejoin="round"/>
+      <path d="M120 54L184 86V154L120 186L56 154V86L120 54Z" stroke="url(#logo-glass)" stroke-width="2"/>
+      <path d="M73 88L120 64L167 88M73 152L120 176L167 152" stroke="#F7F8FA" stroke-opacity=".16" stroke-width="1"/>
+    </g>
+  </g>
+  <circle cx="120" cy="120" r="4" fill="#E8C875"/>
+  <path d="M72 202H168" stroke="#F7F8FA" stroke-opacity=".16" stroke-linecap="round"/>
+  <!-- inspect: golden-node 120,120 | system first -->
+</svg>

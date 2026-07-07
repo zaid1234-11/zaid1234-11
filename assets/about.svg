@@ -1,0 +1,23 @@
+<svg width="1200" height="520" viewBox="0 0 1200 520" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">System First</title>
+  <desc id="desc">A poster composition for Zaid's product philosophy: System First.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="520"><stop stop-color="#07080B"/><stop offset="1" stop-color="#111318"/></linearGradient>
+    <linearGradient id="line" x1="236" y1="410" x2="1010" y2="138"><stop stop-color="#7DE7E0"/><stop offset=".5" stop-color="#A996FF"/><stop offset="1" stop-color="#E8C875"/></linearGradient>
+    <filter id="blur" x="-25%" y="-25%" width="150%" height="150%"><feGaussianBlur stdDeviation="38"/></filter>
+    <style>.k{font:700 12px Arial,sans-serif;letter-spacing:4px}.h{font:700 104px Arial,sans-serif}.p{font:400 26px Arial,sans-serif}.ghost{font:700 148px Arial,sans-serif;letter-spacing:-8px}</style>
+  </defs>
+  <rect width="1200" height="520" rx="36" fill="url(#bg)"/>
+  <ellipse cx="916" cy="164" rx="280" ry="130" fill="#7DE7E0" opacity=".13" filter="url(#blur)"/>
+  <text x="990" y="448" class="ghost" fill="#FFFFFF" fill-opacity=".04">ZS</text>
+  <path d="M168 414C338 244 498 476 650 284C788 110 906 214 1056 116" stroke="url(#line)" stroke-width="4" stroke-linecap="round"/>
+  <circle cx="650" cy="284" r="10" fill="#F7F8FA"/>
+  <circle cx="1056" cy="116" r="7" fill="#E8C875"/>
+  <text x="82" y="92" class="k" fill="#7DE7E0">PHILOSOPHY</text>
+  <text x="80" y="220" class="h" fill="#F7F8FA">System</text>
+  <text x="80" y="326" class="h" fill="#F7F8FA">First.</text>
+  <text x="672" y="350" class="p" fill="#D7DCE5">Every component earns its place.</text>
+  <text x="672" y="390" class="p" fill="#AEB7C5">Every interaction explains itself.</text>
+  <text x="672" y="430" class="p" fill="#AEB7C5">Every detail reduces friction.</text>
+  <!-- inspect: one focal line, one operating idea -->
+</svg>
