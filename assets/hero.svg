@@ -4,8 +4,8 @@
     xmlns="http://www.w3.org/2000/svg"
     xmlns:xlink="http://www.w3.org/1999/xlink"
     width="1600"
-    height="900"
-    viewBox="0 0 1600 900"
+    height="2200"
+    viewBox="0 0 1600 2200"
     fill="none">
 
 <defs>
@@ -18,7 +18,7 @@
     x1="0"
     y1="0"
     x2="1600"
-    y2="900">
+    y2="2200">
 
     <stop offset="0%" stop-color="#04060F"/>
 
@@ -278,3 +278,5 @@ PRODUCT • DESIGN • AI • ENGINEERING
 </text>
 
 <!-- HERO CONTENT CONTINUES IN PART 2 -->
+
+</svg>

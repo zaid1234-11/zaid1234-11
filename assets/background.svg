@@ -1,15 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg
     width="1600"
-    height="900"
-    viewBox="0 0 1600 900"
+    height="2600"
+    viewBox="0 0 1600 2600"
+    preserveAspectRatio="xMidYMid slice"
     fill="none"
     xmlns="http://www.w3.org/2000/svg">
 
 <defs>
 
     <!-- Background -->
-    <linearGradient id="bg" x1="0" y1="0" x2="1600" y2="900">
+    <linearGradient id="bg" x1="0" y1="0" x2="1600" y2="2600">
         <stop offset="0%" stop-color="#05070A"/>
         <stop offset="100%" stop-color="#090D12"/>
     </linearGradient>
@@ -62,7 +63,7 @@
 
 <rect
     width="1600"
-    height="900"
+    height="2600"
     fill="url(#bg)"/>
 
 <!-- Ambient Glow 1 -->
@@ -228,41 +229,73 @@ d="M0 750H1600"
 stroke="#FFFFFF"/>
 
 <path
-d="M200 0V900"
-stroke="#FFFFFF"/>
+    d="M0 900H1600"
+    stroke="#FFFFFF"/>
 
 <path
-d="M400 0V900"
-stroke="#FFFFFF"/>
+    d="M0 1050H1600"
+    stroke="#FFFFFF"/>
 
 <path
-d="M600 0V900"
-stroke="#FFFFFF"/>
+    d="M0 1200H1600"
+    stroke="#FFFFFF"/>
 
 <path
-d="M800 0V900"
-stroke="#FFFFFF"/>
+    d="M0 1350H1600"
+    stroke="#FFFFFF"/>
 
 <path
-d="M1000 0V900"
-stroke="#FFFFFF"/>
+    d="M0 1500H1600"
+    stroke="#FFFFFF"/>
 
 <path
-d="M1200 0V900"
-stroke="#FFFFFF"/>
+    d="M0 1650H1600"
+    stroke="#FFFFFF"/>
 
 <path
-d="M1400 0V900"
-stroke="#FFFFFF"/>
+    d="M0 1800H1600"
+    stroke="#FFFFFF"/>
 
-</g>
+<path
+    d="M0 1950H1600"
+    stroke="#FFFFFF"/>
 
-<!-- Noise Overlay -->
+<path
+    d="M0 2100H1600"
+    stroke="#FFFFFF"/>
 
-<rect
-    width="1600"
-    height="900"
-    filter="url(#noise)"
-    opacity=".55"/>
+<path
+    d="M0 2250H1600"
+    stroke="#FFFFFF"/>
 
+<path
+    d="M0 2400H1600"
+    stroke="#FFFFFF"/>
+
+<path
+    d="M200 0V2600"
+    stroke="#FFFFFF"/>
+
+<path
+    d="M400 0V2600"
+    stroke="#FFFFFF"/>
+
+<path
+    d="M600 0V2600"
+    stroke="#FFFFFF"/>
+
+<path
+    d="M800 0V2600"
+    stroke="#FFFFFF"/>
+
+<path
+    d="M1000 0V2600"
+    stroke="#FFFFFF"/>
+
+<path
+    d="M1200 0V2600"
+    stroke="#FFFFFF"/>
+
+<path
+    d="M1400 0V2600"
 </svg>

@@ -2,9 +2,11 @@
 <!--                  ZAID SAIFI • GITHUB PROFILE              -->
 <!-- ========================================================= -->
 
-<div align="center">
+<div align="center" style="position:relative;">
 
-<img src="./assets/background.svg" width="100%" alt="Background"/>
+<img src="./assets/background.svg" width="100%" alt="Background" style="position:absolute; inset:0; width:100%; height:auto; z-index:-1; opacity:.85; pointer-events:none;"/>
+
+<div style="position:relative; z-index:1;">
 
 <br><br><br>
 
@@ -19,6 +21,13 @@ alt="Logo"/>
 # Designing memorable experiences.
 
 ### Frontend Engineer • Product Designer • AI Builder
+
+<br>
+
+<img
+src="./assets/hero.svg"
+width="100%"
+alt="Hero illustration"/>
 
 <br>
 
@@ -42,10 +51,6 @@ alt="Logo"/>
 
 <img
 src="https://komarev.com/ghpvc/?username=zaid1234-11&style=for-the-badge&color=7C5CFC"/>
-
-<br><br>
-
-<img src="./assets/hero.svg" width="100%"/>
 
 </div>
 
