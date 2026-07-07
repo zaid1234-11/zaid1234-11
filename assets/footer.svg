@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1600" height="180" viewBox="0 0 1600 180" fill="none" xmlns="http://www.w3.org/2000/svg">
+
+<defs>
+    <linearGradient id="footerGradient" x1="0" y1="0" x2="1600" y2="0">
+        <stop offset="0%" stop-color="#7C5CFC"/>
+        <stop offset="50%" stop-color="#38BDF8"/>
+        <stop offset="100%" stop-color="#4FD1C5"/>
+    </linearGradient>
+</defs>
+
+<rect width="1600" height="180" fill="#060913"/>
+<path d="M0 80C200 100 400 60 600 80C800 100 1000 60 1200 80 1400 100 1600 60V180H0V80Z" fill="url(#footerGradient)" fill-opacity=".22"/>
+<path d="M0 100C200 120 400 80 600 100C800 120 1000 80 1200 100 1400 120 1600 80" stroke="#FFFFFF" stroke-width="2" opacity=".18"/>
+
+</svg>

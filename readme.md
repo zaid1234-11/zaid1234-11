@@ -54,6 +54,8 @@ src="https://komarev.com/ghpvc/?username=zaid1234-11&style=for-the-badge&color=7
 
 </div>
 
+</div>
+
 ---
 
 <div align="center">
