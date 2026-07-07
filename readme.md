@@ -1,90 +1,252 @@
+<!-- ========================================= -->
+<!--               ZAID//OS v1                 -->
+<!-- ========================================= -->
+
+<div align="center">
+
+# ZAID//OS
+
+### Building intelligent products where design meets engineering.
+
+<p>
+  <a href="https://www.zaidsportfolio.in">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-5EEAD4?style=for-the-badge&logo=vercel&logoColor=black"/>
+  </a>
+  <a href="https://github.com/zaid1234-11">
+    <img src="https://img.shields.io/github/followers/zaid1234-11?style=for-the-badge"/>
+  </a>
+  <a href="https://www.linkedin.com/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
+  </a>
+</p>
+
+<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=850&lines=Frontend+AI+Engineer;UI%2FUX+Designer;Building+beautiful+digital+experiences;Currently+crafting+RetroLab+and+AI+products"/>
+
+</div>
+
+---
+
+# SYSTEM STATUS
+
+```text
+──────────────────────────────────────────
+
+NAME      :: Zaid Saifi
+ROLE      :: Frontend AI Engineer
+FOCUS     :: AI × Design × Frontend
+STATUS    :: BUILDING
+LOCATION  :: India
+
+──────────────────────────────────────────
+```
+
+---
+
+# CURRENT MISSION
+
+> I don't just build interfaces.
+
+> I build products people actually enjoy using.
+
+From AI-powered applications to premium frontend experiences,
+my focus is combining **design, engineering and intelligence**
+into software that feels effortless.
+
+---
+
+# FEATURED MODULES
+
+<table>
+
+<tr>
+
+<td width="50%">
+
+## 🌿 FinTrac AI
+
+Financial Operating System
+
+- AI powered insights
+- Beautiful dashboard
+- Smart analytics
+- Next.js
+- Supabase
+
+</td>
+
+<td width="50%">
+
+## 📸 RetroLab
+
+Professional Image Studio
+
+- Modern UI
+- Batch Processing
+- Electron
+- React
+- OpenCV
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%">
+
+## 📊 SalesSphere
+
+Enterprise Analytics Platform
+
+- BI Dashboard
+- Interactive Charts
+- Data Visualization
+- Zustand
+- Recharts
+
+</td>
+
+<td width="50%">
+
+## 🎨 Portfolio
+
+Modern Interactive Portfolio
+
+- Motion Design
+- Premium UI
+- Storytelling
+- Framer Motion
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+# ENGINE
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,nodejs,python,postgres,supabase,git,github,figma,vscode&perline=7"/>
+
+</p>
+
+---
+
+# ENGINEERING PHILOSOPHY
+
+```text
+Every interaction should have purpose.
+
+Every animation should communicate.
+
+Every product should solve a problem.
+
+Technology is important.
+
+Experience is unforgettable.
+```
+
+---
+
+# SYSTEM TELEMETRY
+
+<p align="center">
+
+<img height="170"
+src="https://github-readme-stats.vercel.app/api?username=zaid1234-11&show_icons=true&theme=transparent&hide_border=true"/>
+
+<img height="170"
+src="https://github-readme-streak-stats.herokuapp.com/?user=zaid1234-11&theme=transparent&hide_border=true"/>
+
+</p>
+
+---
+
+<p align="center">
+
+<img
+src="https://github-readme-activity-graph.vercel.app/graph?username=zaid1234-11&theme=github-compact&hide_border=true"/>
+
+</p>
+
+---
+
+# CURRENT STACK
+
+```text
+Frontend
+
+React
+Next.js
+Tailwind CSS
+TypeScript
+Framer Motion
+
+Backend
+
+Node.js
+Supabase
+PostgreSQL
+
+AI
+
+OpenAI
+Claude
+Gemini
+```
+
+---
+
+# NOW BUILDING
+
+- 🌿 FinTrac AI
+- 📸 RetroLab
+- 🎨 Premium UI Experiences
+- 🤖 AI Powered Products
+
+---
+
+# CONNECT
+
+<p align="center">
+
+<a href="https://www.zaidsportfolio.in">
+Portfolio
+</a>
+
+•
+
+<a href="https://github.com/zaid1234-11">
+GitHub
+</a>
+
+•
+
+<a href="https://www.linkedin.com/">
+LinkedIn
+</a>
+
+</p>
+
+---
+
+<div align="center">
+
+## END OF TRANSMISSION
+
+Building software that people remember.
+
+⭐ Thanks for visiting.
+
+</div>
+
 <!--
-  Quiet Intelligence.
-  A profile built as a product surface, not a template.
-  Inspectors: the SVG source holds the details.
--->
+Still reading?
 
-<p align="center">
-  <img src="./assets/hero.svg" alt="Software with taste. AI systems, interfaces, and product experiences engineered with clarity, motion, and care." width="100%" />
-</p>
+If you found this,
+we'd probably enjoy building together.
 
-<p align="center">
-  <img src="./assets/divider.svg" alt="" width="100%" />
-</p>
-
-<p align="center">
-  <img src="./assets/about.svg" alt="System First. Every component should earn its place. Every interaction should explain itself. Every animation should have a reason. Every detail should reduce friction." width="100%" />
-</p>
-
-<p align="center">
-  <img src="./assets/design-dna.svg" alt="Living Design System: Precision, Motion, Performance, Curiosity, and Systems." width="100%" />
-</p>
-
-<p align="center">
-  <img src="./assets/philosophy.svg" alt="Engineering with taste: systems, performance, motion, and AI." width="100%" />
-</p>
-
-<p align="center">
-  <img src="./assets/divider.svg" alt="" width="100%" />
-</p>
-
-<p align="center">
-  <img src="./assets/projects.svg" alt="Four product worlds: FinTrac AI, RetroLab, SalesSphere, and Portfolio." width="100%" />
-</p>
-
-<p align="center">
-  <img src="./assets/projects/fintrac.svg" alt="FinTrac AI financial operating system with a decision core, scenario lanes, goals, and forecast intelligence." width="100%" />
-</p>
-
-<p align="center">
-  <img src="./assets/projects/retrolab.svg" alt="RetroLab creative transformation flow from original image to ASCII, dither, CRT, pixel, and community." width="100%" />
-</p>
-
-<p align="center">
-  <img src="./assets/projects/salessphere.svg" alt="SalesSphere golden revenue atlas with forecast motion and executive sales intelligence." width="100%" />
-</p>
-
-<p align="center">
-  <img src="./assets/projects/portfolio.svg" alt="Portfolio app introduction showing browser, scroll, sections, motion, and case study flow." width="100%" />
-</p>
-
-<p align="center">
-  <img src="./assets/divider.svg" alt="" width="100%" />
-</p>
-
-<p align="center">
-  <img src="./assets/tech.svg" alt="Tech constellation revealed after outcomes: frontend, AI, backend, design, and cloud." width="100%" />
-</p>
-
-<p align="center">
-  <img src="./assets/timeline.svg" alt="Roadmap: Learn in 2023, Build in 2024, Ship in 2025, Scale in 2026." width="100%" />
-</p>
-
-<p align="center">
-  <img src="./github-metrics.svg" alt="GitHub metrics generated automatically." width="100%" />
-</p>
-
-<p align="center">
-  <img src="./dist/github-snake.svg" alt="Contribution snake generated automatically." width="100%" />
-</p>
-
-<p align="center">
-  <img src="./assets/contact.svg" alt="Build with care. Ship with taste." width="100%" />
-</p>
-
-<p align="center">
-  <a href="https://www.zaidsportfolio.in">Portfolio</a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/zaid1234-11">GitHub</a>
-  &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/">LinkedIn</a>
-</p>
-
-<p align="center">
-  <img src="./assets/footer.svg" alt="Designed. Engineered. Iterated. Zaid Saifi." width="100%" />
-</p>
-
-<!--
-  Last pass rule:
-  Remove anything that does not increase trust, clarity, or craft.
 -->
