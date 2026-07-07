@@ -1,107 +1,92 @@
 <?xml version="1.0" encoding="UTF-8"?>
-
-<svg
-    xmlns="http://www.w3.org/2000/svg"
-    xmlns:xlink="http://www.w3.org/1999/xlink"
-    width="1600"
-    height="900"
-    viewBox="0 0 1600 900"
-    preserveAspectRatio="xMidYMid slice"
-    fill="none">
-
-<defs>
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" preserveAspectRatio="xMidYMid slice" fill="none">
+  <defs>
     <linearGradient id="bgGradient" x1="0" y1="0" x2="1600" y2="900">
-        <stop offset="0%" stop-color="#04060F"/>
-        <stop offset="45%" stop-color="#0B1020"/>
-        <stop offset="100%" stop-color="#060913"/>
+      <stop offset="0%" stop-color="#04060F"/>
+      <stop offset="45%" stop-color="#0B1020"/>
+      <stop offset="100%" stop-color="#060913"/>
+    </linearGradient>
+
+    <linearGradient id="gridGlow" x1="0" y1="0" x2="1600" y2="900">
+      <stop offset="0%" stop-color="#7C5CFC" stop-opacity=".05"/>
+      <stop offset="100%" stop-color="#4FD1C5" stop-opacity="0"/>
     </linearGradient>
 
     <linearGradient id="primaryGradient" x1="150" y1="100" x2="1400" y2="760">
-        <stop offset="0%" stop-color="#7C5CFC"/>
-        <stop offset="45%" stop-color="#4F9BFF"/>
-        <stop offset="100%" stop-color="#4FD1C5"/>
+      <stop offset="0%" stop-color="#7C5CFC"/>
+      <stop offset="45%" stop-color="#4F9BFF"/>
+      <stop offset="100%" stop-color="#4FD1C5"/>
     </linearGradient>
 
     <radialGradient id="purpleGlow">
-        <stop offset="0%" stop-color="#7C5CFC" stop-opacity=".9"/>
-        <stop offset="100%" stop-color="#7C5CFC" stop-opacity="0"/>
+      <stop offset="0%" stop-color="#7C5CFC" stop-opacity=".9"/>
+      <stop offset="100%" stop-color="#7C5CFC" stop-opacity="0"/>
     </radialGradient>
 
     <radialGradient id="blueGlow">
-        <stop offset="0%" stop-color="#38BDF8" stop-opacity=".75"/>
-        <stop offset="100%" stop-color="#38BDF8" stop-opacity="0"/>
+      <stop offset="0%" stop-color="#38BDF8" stop-opacity=".75"/>
+      <stop offset="100%" stop-color="#38BDF8" stop-opacity="0"/>
     </radialGradient>
 
     <radialGradient id="greenGlow">
-        <stop offset="0%" stop-color="#4FD1C5" stop-opacity=".55"/>
-        <stop offset="100%" stop-color="#4FD1C5" stop-opacity="0"/>
+      <stop offset="0%" stop-color="#4FD1C5" stop-opacity=".55"/>
+      <stop offset="100%" stop-color="#4FD1C5" stop-opacity="0"/>
     </radialGradient>
 
-    <filter id="blurXL" x="-50%" y="-50%" width="200%" height="200%">
-        <feGaussianBlur stdDeviation="80"/>
+    <filter id="blurBig" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="70"/>
     </filter>
 
-    <filter id="blurLarge" x="-50%" y="-50%" width="200%" height="200%">
-        <feGaussianBlur stdDeviation="45"/>
-    </filter>
-
-    <filter id="glass">
-        <feGaussianBlur stdDeviation="18"/>
+    <filter id="blurMed" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="40"/>
     </filter>
 
     <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%">
-        <feDropShadow dx="0" dy="24" stdDeviation="30" flood-color="#000000" flood-opacity=".35"/>
+      <feDropShadow dx="0" dy="24" stdDeviation="30" flood-color="#000000" flood-opacity=".35"/>
     </filter>
 
     <pattern id="grid" width="80" height="80" patternUnits="userSpaceOnUse">
-        <path d="M80 0H0V80" stroke="white" stroke-opacity=".035" stroke-width="1"/>
+      <path d="M80 0H0V80" stroke="white" stroke-opacity=".035" stroke-width="1"/>
     </pattern>
-</defs>
+  </defs>
 
-<rect width="1600" height="900" fill="url(#bgGradient)"/>
-<rect width="1600" height="900" fill="url(#grid)"/>
+  <rect width="1600" height="900" fill="url(#bgGradient)"/>
+  <rect width="1600" height="900" fill="url(#grid)" opacity=".45"/>
 
-<g filter="url(#blurXL)">
-    <circle cx="260" cy="180" r="240" fill="url(#purpleGlow)">
-        <animate attributeName="cx" values="260;330;260" dur="18s" repeatCount="indefinite"/>
-        <animate attributeName="cy" values="180;240;180" dur="20s" repeatCount="indefinite"/>
-    </circle>
-    <circle cx="1280" cy="170" r="250" fill="url(#blueGlow)">
-        <animate attributeName="cx" values="1280;1210;1280" dur="19s" repeatCount="indefinite"/>
-    </circle>
-    <circle cx="820" cy="760" r="290" fill="url(#greenGlow)">
-        <animate attributeName="cy" values="760;700;760" dur="22s" repeatCount="indefinite"/>
-    </circle>
-</g>
+  <g filter="url(#blurBig)">
+    <circle cx="240" cy="180" r="220" fill="url(#purpleGlow)"/>
+    <circle cx="1280" cy="160" r="240" fill="url(#blueGlow)"/>
+    <circle cx="840" cy="760" r="300" fill="url(#greenGlow)"/>
+  </g>
 
-<g opacity=".45">
-    <circle cx="120" cy="140" r="1.5" fill="white"/>
-    <circle cx="310" cy="95" r="1" fill="white"/>
-    <circle cx="520" cy="210" r="1.2" fill="white"/>
-    <circle cx="760" cy="80" r="1.4" fill="white"/>
-    <circle cx="980" cy="170" r="1.1" fill="white"/>
-    <circle cx="1180" cy="100" r="1.3" fill="white"/>
-    <circle cx="1450" cy="210" r="1.2" fill="white"/>
-    <circle cx="220" cy="720" r="1.2" fill="white"/>
-    <circle cx="610" cy="810" r="1.1" fill="white"/>
-    <circle cx="1340" cy="760" r="1.3" fill="white"/>
-</g>
+  <g opacity=".35">
+    <circle cx="160" cy="130" r="1.2" fill="white"/>
+    <circle cx="380" cy="90" r="1.1" fill="white"/>
+    <circle cx="590" cy="210" r="1.3" fill="white"/>
+    <circle cx="770" cy="80" r="1.5" fill="white"/>
+    <circle cx="980" cy="170" r="1.2" fill="white"/>
+    <circle cx="1170" cy="100" r="1.4" fill="white"/>
+    <circle cx="1450" cy="210" r="1.3" fill="white"/>
+    <circle cx="280" cy="720" r="1.3" fill="white"/>
+    <circle cx="620" cy="820" r="1.1" fill="white"/>
+    <circle cx="1340" cy="760" r="1.4" fill="white"/>
+  </g>
 
-<g filter="url(#shadow)">
-    <rect x="120" y="90" width="1360" height="720" rx="42" fill="white" fill-opacity=".035" stroke="white" stroke-opacity=".09"/>
-</g>
+  <g filter="url(#shadow)">
+    <rect x="120" y="90" width="1360" height="720" rx="42" fill="white" fill-opacity=".03" stroke="white" stroke-opacity=".08"/>
+  </g>
 
-<g filter="url(#glass)">
-    <rect x="180" y="170" width="1240" height="520" rx="32" fill="white" fill-opacity=".04"/>
-</g>
+  <g filter="url(#blurMed)">
+    <rect x="180" y="170" width="1240" height="520" rx="32" fill="white" fill-opacity=".045"/>
+  </g>
 
-<g opacity=".95">
+  <g opacity=".95">
     <rect x="230" y="220" width="520" height="410" rx="28" fill="white" fill-opacity=".08"/>
     <rect x="805" y="220" width="530" height="152" rx="24" fill="white" fill-opacity=".08"/>
     <rect x="805" y="402" width="530" height="208" rx="24" fill="white" fill-opacity=".08"/>
-</g>
+  </g>
 
-<g opacity=".75">
+  <g opacity=".75">
     <rect x="255" y="260" width="430" height="44" rx="22" fill="url(#primaryGradient)"/>
     <rect x="255" y="324" width="350" height="18" rx="9" fill="#FFFFFF" fill-opacity=".24"/>
     <rect x="255" y="360" width="360" height="18" rx="9" fill="#FFFFFF" fill-opacity=".16"/>
@@ -114,9 +99,9 @@
     <circle cx="480" cy="612" r="14" fill="#38BDF8"/>
     <circle cx="530" cy="612" r="14" fill="#7C5CFC"/>
     <path d="M255 540H500" stroke="#FFFFFF" stroke-width="2" stroke-linecap="round" opacity=".18"/>
-</g>
+  </g>
 
-<g opacity=".65">
+  <g opacity=".65">
     <rect x="835" y="256" width="300" height="20" rx="10" fill="#FFFFFF" fill-opacity=".3"/>
     <rect x="835" y="292" width="240" height="14" rx="7" fill="#FFFFFF" fill-opacity=".22"/>
     <rect x="835" y="326" width="520" height="14" rx="7" fill="#FFFFFF" fill-opacity=".16"/>
@@ -126,25 +111,35 @@
     <rect x="835" y="474" width="520" height="12" rx="6" fill="#FFFFFF" fill-opacity=".18"/>
     <rect x="835" y="500" width="430" height="12" rx="6" fill="#FFFFFF" fill-opacity=".18"/>
     <rect x="835" y="526" width="330" height="12" rx="6" fill="#FFFFFF" fill-opacity=".18"/>
-</g>
+  </g>
 
-<g opacity=".8">
+  <g opacity=".8">
     <circle cx="1460" cy="240" r="46" fill="#7C5CFC" fill-opacity=".14"/>
     <circle cx="1460" cy="240" r="16" fill="#7C5CFC"/>
     <rect x="1418" y="310" width="90" height="90" rx="24" fill="#262C40" fill-opacity=".72"/>
     <rect x="1448" y="340" width="30" height="24" rx="12" fill="#FFFFFF" fill-opacity=".18"/>
     <rect x="1483" y="340" width="30" height="24" rx="12" fill="#FFFFFF" fill-opacity=".18"/>
-</g>
+  </g>
 
-<g opacity=".4">
+  <g opacity=".4">
     <path d="M240 660C420 620 560 740 760 700C960 660 1180 760 1340 720" stroke="#FFFFFF" stroke-width="2" stroke-linecap="round"/>
     <circle cx="870" cy="650" r="6" fill="#4FD1C5"/>
     <circle cx="1000" cy="675" r="6" fill="#38BDF8"/>
     <circle cx="1230" cy="700" r="6" fill="#7C5CFC"/>
-</g>
+  </g>
 
-<text x="800" y="170" text-anchor="middle" fill="#B8C2E4" font-size="18" font-family="Inter,Segoe UI,Arial" letter-spacing="8">
-    PRODUCT • DESIGN • AI • ENGINEERING
-</text>
+  <g transform="translate(0 40)">
+    <circle cx="800" cy="120" r="68" fill="#151A2B" opacity=".95"/>
+    <circle cx="800" cy="120" r="90" fill="url(#primaryGradient)" opacity=".18"/>
+    <circle cx="800" cy="120" r="20" fill="#FFFFFF"/>
+    <path d="M782 120H818L796 170H818" stroke="#0B1020" stroke-width="10" stroke-linecap="round" stroke-linejoin="round"/>
+    <circle cx="735" cy="107" r="5" fill="#4FD1C5"/>
+    <circle cx="865" cy="108" r="4" fill="#38BDF8"/>
 
+    <text x="800" y="260" text-anchor="middle" fill="#FFFFFF" font-size="48" font-family="Inter,Segoe UI,Arial" font-weight="700">Building thoughtful software.</text>
+    <text x="800" y="325" text-anchor="middle" fill="#E5E7FF" font-size="48" font-family="Inter,Segoe UI,Arial" font-weight="700">Designing memorable experiences.</text>
+    <text x="800" y="375" text-anchor="middle" fill="#A5B4FC" font-size="18" font-family="Inter,Segoe UI,Arial" letter-spacing="1.2">Frontend Engineer • Product Designer • AI Builder</text>
+  </g>
+
+  <text x="800" y="780" text-anchor="middle" fill="#B8C2E4" font-size="18" font-family="Inter,Segoe UI,Arial" letter-spacing="8">PRODUCT • DESIGN • AI • ENGINEERING</text>
 </svg>
