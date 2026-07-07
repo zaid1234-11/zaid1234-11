@@ -25,12 +25,11 @@
 <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 </td>
+<td>
+<img src="https://komarev.com/ghpvc/?username=zaid1234-11&style=for-the-badge&color=7C5CFC"/>
+</td>
 </tr>
 </table>
-
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=zaid1234-11&style=for-the-badge&color=7C5CFC"/>
 
 </div>
 
