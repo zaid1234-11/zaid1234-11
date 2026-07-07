@@ -863,28 +863,6 @@ I'm always happy to connect.
 
 <br>
 
-<div align="center">
-
-<a href="https://www.zaidsportfolio.in">
-<img src="https://img.shields.io/badge/Portfolio-Explore-111827?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-
-&nbsp;&nbsp;
-
-<a href="https://github.com/zaid1234-11">
-<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-&nbsp;&nbsp;
-
-<a href="https://www.linkedin.com/in/zaidsaifi">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-</div>
-
-<br>
-
 <img src="./assets/divider.svg" width="100%"/>
 
 <br>
