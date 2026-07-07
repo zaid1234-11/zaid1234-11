@@ -1,0 +1,268 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg
+    width="1600"
+    height="900"
+    viewBox="0 0 1600 900"
+    fill="none"
+    xmlns="http://www.w3.org/2000/svg">
+
+<defs>
+
+    <!-- Background -->
+    <linearGradient id="bg" x1="0" y1="0" x2="1600" y2="900">
+        <stop offset="0%" stop-color="#05070A"/>
+        <stop offset="100%" stop-color="#090D12"/>
+    </linearGradient>
+
+    <!-- Main Gradient -->
+    <radialGradient id="greenGlow">
+        <stop offset="0%" stop-color="#7CFFB2" stop-opacity=".45"/>
+        <stop offset="100%" stop-color="#7CFFB2" stop-opacity="0"/>
+    </radialGradient>
+
+    <radialGradient id="blueGlow">
+        <stop offset="0%" stop-color="#67B7FF" stop-opacity=".35"/>
+        <stop offset="100%" stop-color="#67B7FF" stop-opacity="0"/>
+    </radialGradient>
+
+    <radialGradient id="purpleGlow">
+        <stop offset="0%" stop-color="#B388FF" stop-opacity=".28"/>
+        <stop offset="100%" stop-color="#B388FF" stop-opacity="0"/>
+    </radialGradient>
+
+    <filter id="blur80">
+        <feGaussianBlur stdDeviation="80"/>
+    </filter>
+
+    <filter id="blur40">
+        <feGaussianBlur stdDeviation="40"/>
+    </filter>
+
+    <filter id="noise">
+        <feTurbulence
+            type="fractalNoise"
+            baseFrequency=".75"
+            numOctaves="2"
+            seed="9"/>
+
+        <feColorMatrix
+            type="saturate"
+            values="0"/>
+
+        <feComponentTransfer>
+            <feFuncA
+                type="table"
+                tableValues="0 0 .03"/>
+        </feComponentTransfer>
+    </filter>
+
+</defs>
+
+<!-- Background -->
+
+<rect
+    width="1600"
+    height="900"
+    fill="url(#bg)"/>
+
+<!-- Ambient Glow 1 -->
+
+<g filter="url(#blur80)">
+    <circle
+        cx="280"
+        cy="180"
+        r="220"
+        fill="url(#greenGlow)">
+        <animate
+            attributeName="cx"
+            values="240;350;240"
+            dur="22s"
+            repeatCount="indefinite"/>
+
+        <animate
+            attributeName="cy"
+            values="170;230;170"
+            dur="18s"
+            repeatCount="indefinite"/>
+    </circle>
+</g>
+
+<!-- Ambient Glow 2 -->
+
+<g filter="url(#blur80)">
+    <circle
+        cx="1180"
+        cy="240"
+        r="260"
+        fill="url(#blueGlow)">
+        <animate
+            attributeName="cx"
+            values="1180;1260;1180"
+            dur="25s"
+            repeatCount="indefinite"/>
+
+        <animate
+            attributeName="cy"
+            values="240;160;240"
+            dur="19s"
+            repeatCount="indefinite"/>
+    </circle>
+</g>
+
+<!-- Ambient Glow 3 -->
+
+<g filter="url(#blur80)">
+    <circle
+        cx="840"
+        cy="760"
+        r="300"
+        fill="url(#purpleGlow)">
+        <animate
+            attributeName="cx"
+            values="840;760;840"
+            dur="30s"
+            repeatCount="indefinite"/>
+
+        <animate
+            attributeName="cy"
+            values="760;650;760"
+            dur="28s"
+            repeatCount="indefinite"/>
+    </circle>
+</g>
+
+<!-- Floating Rings -->
+
+<g opacity=".08">
+
+<circle
+    cx="800"
+    cy="450"
+    r="220"
+    stroke="#FFFFFF"
+    stroke-width="1">
+
+    <animateTransform
+        attributeName="transform"
+        attributeType="XML"
+        type="rotate"
+        from="0 800 450"
+        to="360 800 450"
+        dur="180s"
+        repeatCount="indefinite"/>
+
+</circle>
+
+<circle
+    cx="800"
+    cy="450"
+    r="320"
+    stroke="#FFFFFF"
+    stroke-width=".8">
+
+    <animateTransform
+        attributeName="transform"
+        attributeType="XML"
+        type="rotate"
+        from="360 800 450"
+        to="0 800 450"
+        dur="220s"
+        repeatCount="indefinite"/>
+
+</circle>
+
+</g>
+
+<!-- Floating Particles -->
+
+<g fill="#FFFFFF" opacity=".35">
+
+<circle cx="200" cy="700" r="2">
+    <animate attributeName="cy" values="700;660;700" dur="8s" repeatCount="indefinite"/>
+</circle>
+
+<circle cx="540" cy="240" r="2">
+    <animate attributeName="cy" values="240;200;240" dur="11s" repeatCount="indefinite"/>
+</circle>
+
+<circle cx="1100" cy="680" r="2">
+    <animate attributeName="cy" values="680;620;680" dur="10s" repeatCount="indefinite"/>
+</circle>
+
+<circle cx="1380" cy="300" r="2">
+    <animate attributeName="cy" values="300;340;300" dur="9s" repeatCount="indefinite"/>
+</circle>
+
+<circle cx="980" cy="120" r="1.8">
+    <animate attributeName="cy" values="120;160;120" dur="7s" repeatCount="indefinite"/>
+</circle>
+
+<circle cx="740" cy="820" r="2">
+    <animate attributeName="cy" values="820;770;820" dur="12s" repeatCount="indefinite"/>
+</circle>
+
+</g>
+
+<!-- Glass Mesh -->
+
+<g opacity=".05">
+
+<path
+d="M0 150H1600"
+stroke="#FFFFFF"/>
+
+<path
+d="M0 300H1600"
+stroke="#FFFFFF"/>
+
+<path
+d="M0 450H1600"
+stroke="#FFFFFF"/>
+
+<path
+d="M0 600H1600"
+stroke="#FFFFFF"/>
+
+<path
+d="M0 750H1600"
+stroke="#FFFFFF"/>
+
+<path
+d="M200 0V900"
+stroke="#FFFFFF"/>
+
+<path
+d="M400 0V900"
+stroke="#FFFFFF"/>
+
+<path
+d="M600 0V900"
+stroke="#FFFFFF"/>
+
+<path
+d="M800 0V900"
+stroke="#FFFFFF"/>
+
+<path
+d="M1000 0V900"
+stroke="#FFFFFF"/>
+
+<path
+d="M1200 0V900"
+stroke="#FFFFFF"/>
+
+<path
+d="M1400 0V900"
+stroke="#FFFFFF"/>
+
+</g>
+
+<!-- Noise Overlay -->
+
+<rect
+    width="1600"
+    height="900"
+    filter="url(#noise)"
+    opacity=".55"/>
+
+</svg>

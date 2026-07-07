@@ -1,0 +1,129 @@
+<svg width="320" height="320" viewBox="0 0 320 320" fill="none" xmlns="http://www.w3.org/2000/svg">
+
+<defs>
+
+<linearGradient id="ring" x1="40" y1="40" x2="280" y2="280">
+    <stop offset="0%" stop-color="#7C5CFC"/>
+    <stop offset="50%" stop-color="#38BDF8"/>
+    <stop offset="100%" stop-color="#4FD1C5"/>
+</linearGradient>
+
+<linearGradient id="glass" x1="70" y1="70" x2="250" y2="250">
+    <stop offset="0%" stop-color="rgba(255,255,255,.18)"/>
+    <stop offset="100%" stop-color="rgba(255,255,255,.05)"/>
+</linearGradient>
+
+<filter id="blurGlow" x="-50%" y="-50%" width="200%" height="200%">
+    <feGaussianBlur stdDeviation="18"/>
+</filter>
+
+<filter id="glassBlur">
+    <feGaussianBlur stdDeviation="5"/>
+</filter>
+
+</defs>
+
+<!-- Glow -->
+
+<circle cx="160" cy="160" r="108"
+fill="url(#ring)"
+opacity=".25"
+filter="url(#blurGlow)">
+    <animate attributeName="opacity"
+        values=".18;.35;.18"
+        dur="5s"
+        repeatCount="indefinite"/>
+</circle>
+
+<!-- Outer Ring -->
+
+<circle
+cx="160"
+cy="160"
+r="102"
+stroke="url(#ring)"
+stroke-width="3"
+stroke-linecap="round"
+stroke-dasharray="420">
+
+<animateTransform
+attributeName="transform"
+type="rotate"
+from="0 160 160"
+to="360 160 160"
+dur="18s"
+repeatCount="indefinite"/>
+
+</circle>
+
+<!-- Inner Glass -->
+
+<circle
+cx="160"
+cy="160"
+r="82"
+fill="white"
+fill-opacity=".05"
+stroke="white"
+stroke-opacity=".12"
+filter="url(#glassBlur)"/>
+
+<!-- Accent Orbit -->
+
+<circle
+cx="160"
+cy="58"
+r="6"
+fill="#4FD1C5">
+
+<animateTransform
+attributeName="transform"
+type="rotate"
+from="0 160 160"
+to="-360 160 160"
+dur="9s"
+repeatCount="indefinite"/>
+
+</circle>
+
+<!-- Letter Z -->
+
+<path
+d="M118 108H202L136 212H202"
+stroke="white"
+stroke-width="12"
+stroke-linecap="round"
+stroke-linejoin="round">
+
+<animate
+attributeName="stroke-opacity"
+values=".8;1;.8"
+dur="4s"
+repeatCount="indefinite"/>
+
+</path>
+
+<!-- Tiny Particles -->
+
+<circle cx="84" cy="110" r="2" fill="white">
+    <animate attributeName="opacity"
+        values=".2;1;.2"
+        dur="3s"
+        repeatCount="indefinite"/>
+</circle>
+
+<circle cx="236" cy="210" r="2" fill="white">
+    <animate attributeName="opacity"
+        values=".2;1;.2"
+        dur="4.5s"
+        repeatCount="indefinite"/>
+</circle>
+
+<circle cx="118" cy="252" r="2" fill="white">
+    <animate attributeName="opacity"
+        values=".2;1;.2"
+        dur="5.5s"
+        repeatCount="indefinite"/>
+</circle>
+
+</svg>

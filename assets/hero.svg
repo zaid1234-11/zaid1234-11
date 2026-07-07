@@ -1,0 +1,280 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<svg
+    xmlns="http://www.w3.org/2000/svg"
+    xmlns:xlink="http://www.w3.org/1999/xlink"
+    width="1600"
+    height="900"
+    viewBox="0 0 1600 900"
+    fill="none">
+
+<defs>
+
+<!-- ========================= -->
+<!-- COLORS                    -->
+<!-- ========================= -->
+
+<linearGradient id="bgGradient"
+    x1="0"
+    y1="0"
+    x2="1600"
+    y2="900">
+
+    <stop offset="0%" stop-color="#04060F"/>
+
+    <stop offset="40%" stop-color="#0B1020"/>
+
+    <stop offset="100%" stop-color="#060913"/>
+
+</linearGradient>
+
+<linearGradient
+id="primaryGradient"
+x1="150"
+y1="100"
+x2="1400"
+y2="760">
+
+<stop offset="0%"
+stop-color="#7C5CFC"/>
+
+<stop offset="45%"
+stop-color="#4F9BFF"/>
+
+<stop offset="100%"
+stop-color="#4FD1C5"/>
+
+</linearGradient>
+
+<radialGradient
+id="purpleGlow">
+
+<stop
+offset="0%"
+stop-color="#7C5CFC"
+stop-opacity=".9"/>
+
+<stop
+offset="100%"
+stop-color="#7C5CFC"
+stop-opacity="0"/>
+
+</radialGradient>
+
+<radialGradient
+id="blueGlow">
+
+<stop
+offset="0%"
+stop-color="#38BDF8"
+stop-opacity=".75"/>
+
+<stop
+offset="100%"
+stop-color="#38BDF8"
+stop-opacity="0"/>
+
+</radialGradient>
+
+<radialGradient
+id="greenGlow">
+
+<stop
+offset="0%"
+stop-color="#4FD1C5"
+stop-opacity=".55"/>
+
+<stop
+offset="100%"
+stop-color="#4FD1C5"
+stop-opacity="0"/>
+
+</radialGradient>
+
+<!-- ========================= -->
+<!-- FILTERS                   -->
+<!-- ========================= -->
+
+<filter id="blurXL"
+x="-50%"
+y="-50%"
+width="200%"
+height="200%">
+
+<feGaussianBlur stdDeviation="80"/>
+
+</filter>
+
+<filter id="blurLarge"
+x="-50%"
+y="-50%"
+width="200%"
+height="200%">
+
+<feGaussianBlur stdDeviation="45"/>
+
+</filter>
+
+<filter id="glass">
+
+<feGaussianBlur stdDeviation="18"/>
+
+</filter>
+
+<filter id="shadow">
+
+<feDropShadow
+dx="0"
+dy="24"
+stdDeviation="30"
+flood-color="#000000"
+flood-opacity=".35"/>
+
+</filter>
+
+<!-- ========================= -->
+<!-- GRID                      -->
+<!-- ========================= -->
+
+<pattern
+id="grid"
+width="80"
+height="80"
+patternUnits="userSpaceOnUse">
+
+<path
+d="M80 0H0V80"
+stroke="white"
+stroke-opacity=".035"
+stroke-width="1"/>
+
+</pattern>
+
+</defs>
+
+<!-- ========================= -->
+<!-- BACKGROUND                -->
+<!-- ========================= -->
+
+<rect
+width="1600"
+height="900"
+fill="url(#bgGradient)"/>
+
+<rect
+width="1600"
+height="900"
+fill="url(#grid)"/>
+
+<!-- ========================= -->
+<!-- AURORA                    -->
+<!-- ========================= -->
+
+<g filter="url(#blurXL)">
+
+<circle
+cx="260"
+cy="180"
+r="240"
+fill="url(#purpleGlow)">
+
+<animate
+attributeName="cx"
+values="260;330;260"
+dur="18s"
+repeatCount="indefinite"/>
+
+<animate
+attributeName="cy"
+values="180;240;180"
+dur="20s"
+repeatCount="indefinite"/>
+
+</circle>
+
+<circle
+cx="1280"
+cy="170"
+r="250"
+fill="url(#blueGlow)">
+
+<animate
+attributeName="cx"
+values="1280;1210;1280"
+dur="19s"
+repeatCount="indefinite"/>
+
+</circle>
+
+<circle
+cx="820"
+cy="760"
+r="290"
+fill="url(#greenGlow)">
+
+<animate
+attributeName="cy"
+values="760;700;760"
+dur="22s"
+repeatCount="indefinite"/>
+
+</circle>
+
+</g>
+
+<!-- ========================= -->
+<!-- NOISE DOTS                -->
+<!-- ========================= -->
+
+<g opacity=".45">
+
+<circle cx="120" cy="140" r="1.5" fill="white"/>
+<circle cx="310" cy="95" r="1" fill="white"/>
+<circle cx="520" cy="210" r="1.2" fill="white"/>
+<circle cx="760" cy="80" r="1.4" fill="white"/>
+<circle cx="980" cy="170" r="1.1" fill="white"/>
+<circle cx="1180" cy="100" r="1.3" fill="white"/>
+<circle cx="1450" cy="210" r="1.2" fill="white"/>
+<circle cx="220" cy="720" r="1.2" fill="white"/>
+<circle cx="610" cy="810" r="1.1" fill="white"/>
+<circle cx="1340" cy="760" r="1.3" fill="white"/>
+
+</g>
+
+<!-- ========================= -->
+<!-- MAIN GLASS CONTAINER      -->
+<!-- ========================= -->
+
+<g filter="url(#shadow)">
+
+<rect
+x="120"
+y="90"
+width="1360"
+height="720"
+rx="42"
+fill="white"
+fill-opacity=".035"
+stroke="white"
+stroke-opacity=".09"/>
+
+</g>
+
+<!-- ========================= -->
+<!-- TOP LABEL                 -->
+<!-- ========================= -->
+
+<text
+x="800"
+y="170"
+text-anchor="middle"
+fill="#B8C2E4"
+font-size="18"
+font-family="Inter,Segoe UI,Arial"
+letter-spacing="8">
+
+PRODUCT • DESIGN • AI • ENGINEERING
+
+</text>
+
+<!-- HERO CONTENT CONTINUES IN PART 2 -->

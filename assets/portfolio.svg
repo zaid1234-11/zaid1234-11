@@ -1,0 +1,232 @@
+<svg width="900" height="520" viewBox="0 0 900 520" fill="none" xmlns="http://www.w3.org/2000/svg">
+
+<defs>
+
+<linearGradient id="bg" x1="0" y1="0" x2="900" y2="520">
+    <stop offset="0%" stop-color="#060816"/>
+    <stop offset="100%" stop-color="#101827"/>
+</linearGradient>
+
+<linearGradient id="accent" x1="120" y1="80" x2="780" y2="440">
+    <stop offset="0%" stop-color="#7C5CFC"/>
+    <stop offset="50%" stop-color="#38BDF8"/>
+    <stop offset="100%" stop-color="#4FD1C5"/>
+</linearGradient>
+
+<radialGradient id="glow">
+    <stop offset="0%" stop-color="#7C5CFC" stop-opacity=".45"/>
+    <stop offset="100%" stop-color="#7C5CFC" stop-opacity="0"/>
+</radialGradient>
+
+<filter id="blur">
+    <feGaussianBlur stdDeviation="40"/>
+</filter>
+
+<filter id="shadow">
+    <feDropShadow dx="0" dy="20" stdDeviation="18" flood-opacity=".35"/>
+</filter>
+
+</defs>
+
+<!-- Background -->
+
+<rect width="900" height="520" rx="34" fill="url(#bg)"/>
+
+<!-- Ambient -->
+
+<circle cx="730" cy="110" r="180" fill="url(#glow)" filter="url(#blur)">
+    <animate attributeName="cy"
+        values="110;150;110"
+        dur="10s"
+        repeatCount="indefinite"/>
+</circle>
+
+<!-- Main Window -->
+
+<rect
+x="50"
+y="50"
+width="800"
+height="420"
+rx="28"
+fill="white"
+fill-opacity=".04"
+stroke="white"
+stroke-opacity=".08"/>
+
+<!-- Window Controls -->
+
+<circle cx="82" cy="82" r="6" fill="#FF5F57"/>
+<circle cx="104" cy="82" r="6" fill="#FEBC2E"/>
+<circle cx="126" cy="82" r="6" fill="#28C840"/>
+
+<!-- Title -->
+
+<text
+x="90"
+y="140"
+fill="white"
+font-size="42"
+font-family="Inter"
+font-weight="700">
+Portfolio
+</text>
+
+<text
+x="90"
+y="170"
+fill="#9CA3AF"
+font-size="18"
+font-family="Inter">
+Interactive Frontend Experience
+</text>
+
+<!-- Browser Mockup -->
+
+<rect
+x="90"
+y="205"
+width="720"
+height="220"
+rx="18"
+fill="#0F172A"
+stroke="white"
+stroke-opacity=".08"/>
+
+<!-- Browser Bar -->
+
+<rect
+x="90"
+y="205"
+width="720"
+height="40"
+rx="18"
+fill="#1E293B"/>
+
+<circle cx="112" cy="225" r="5" fill="#FF5F57"/>
+<circle cx="130" cy="225" r="5" fill="#FEBC2E"/>
+<circle cx="148" cy="225" r="5" fill="#28C840"/>
+
+<!-- Hero -->
+
+<rect
+x="120"
+y="270"
+width="320"
+height="120"
+rx="16"
+fill="url(#accent)"
+filter="url(#shadow)">
+
+<animate attributeName="opacity"
+values=".75;1;.75"
+dur="5s"
+repeatCount="indefinite"/>
+
+</rect>
+
+<text
+x="145"
+y="315"
+fill="white"
+font-size="26"
+font-family="Inter"
+font-weight="700">
+Designing Experiences
+</text>
+
+<text
+x="145"
+y="345"
+fill="white"
+font-size="16"
+font-family="Inter">
+Frontend • AI • Product Design
+</text>
+
+<!-- Floating Cards -->
+
+<rect
+x="500"
+y="270"
+width="120"
+height="70"
+rx="14"
+fill="white"
+fill-opacity=".08"/>
+
+<text
+x="560"
+y="312"
+fill="white"
+font-size="15"
+font-family="Inter"
+text-anchor="middle">
+Projects
+</text>
+
+<rect
+x="650"
+y="255"
+width="120"
+height="90"
+rx="14"
+fill="white"
+fill-opacity=".08">
+
+<animateTransform
+attributeName="transform"
+type="translate"
+values="0 0;0 -6;0 0"
+dur="5s"
+repeatCount="indefinite"/>
+
+</rect>
+
+<text
+x="710"
+y="305"
+fill="white"
+font-size="15"
+font-family="Inter"
+text-anchor="middle">
+Case Studies
+</text>
+
+<rect
+x="530"
+y="355"
+width="210"
+height="40"
+rx="20"
+fill="#7C5CFC"
+fill-opacity=".18"/>
+
+<text
+x="635"
+y="380"
+fill="white"
+font-size="15"
+font-family="Inter"
+text-anchor="middle">
+Scroll-driven Animations
+</text>
+
+<!-- Tags -->
+
+<rect x="90" y="445" width="100" height="30" rx="15" fill="#2A225B"/>
+<text x="140" y="464" fill="white" font-size="13" text-anchor="middle">Next.js</text>
+
+<rect x="200" y="445" width="110" height="30" rx="15" fill="#183D66"/>
+<text x="255" y="464" fill="white" font-size="13" text-anchor="middle">Framer</text>
+
+<rect x="320" y="445" width="110" height="30" rx="15" fill="#175A59"/>
+<text x="375" y="464" fill="white" font-size="13" text-anchor="middle">Motion</text>
+
+<rect x="440" y="445" width="130" height="30" rx="15" fill="#2E2568"/>
+<text x="505" y="464" fill="white" font-size="13" text-anchor="middle">UI / UX</text>
+
+<rect x="580" y="445" width="140" height="30" rx="15" fill="#224C74"/>
+<text x="650" y="464" fill="white" font-size="13" text-anchor="middle">Case Studies</text>
+
+</svg>
