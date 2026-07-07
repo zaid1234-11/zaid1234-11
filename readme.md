@@ -8,23 +8,27 @@
 
 <br><br>
 
+<table>
+<tr>
+<td>
 <a href="https://www.zaidsportfolio.in">
 <img src="https://img.shields.io/badge/Portfolio-Visit-black?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
-
-&nbsp;
-
+</td>
+<td>
 <a href="https://github.com/zaid1234-11">
 <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-
-&nbsp;
-
+</td>
+<td>
 <a href="https://www.linkedin.com/in/zaidsaifi">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
+</td>
+</tr>
+</table>
 
-<br><br>
+<br>
 
 <img src="https://komarev.com/ghpvc/?username=zaid1234-11&style=for-the-badge&color=7C5CFC"/>
 
