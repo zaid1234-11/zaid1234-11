@@ -1,34 +1,38 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Zaid%20Saifi&fontSize=52&fontColor=fff&animation=twinkling&fontAlignY=35&desc=AI%20%26%20Full-Stack%20Developer%20%7C%20CSE-AIML%20%7C%20Building%20Intelligent%20Products&descSize=17&descAlignY=57" width="100%"/>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,50:38C2FF,100:00D4FF&height=180&section=header" width="100%"/>
+</p>
+
+<h1 align="center">Hi 👋, I'm Zaid Saifi</h1>
+
+<h3 align="center">
+  AI & Full-Stack Developer • CSE-AIML • Building Intelligent Products
+</h3>
+
+<p align="center">
+  <a href="https://www.zaidsportfolio.in/">
+    <img src="https://img.shields.io/badge/Portfolio-zaidsportfolio.in-111827?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
+  <a href="https://github.com/zaid1234-11">
+    <img src="https://img.shields.io/badge/GitHub-zaid1234--11-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </p>
 
-<!-- Hero -->
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHJncWxqcWF1a3hhMTFyMmM5bTg3OGh6bWYxbnVqaGE2MHNqa3dkaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jTNG3RF6EwbkpD4LZx/giphy.gif" width="100%"/>
-</p>
-
-<h3 align="center">
-  Hey there, fellow &lt;developers /&gt;! 
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"/>
-</h3>
+<h3 align="center">Hey there, fellow &lt;developers /&gt;! 👋</h3>
 
 <p align="center">
-  <b>Zaid Saifi</b> • B.Tech CSE-AIML • AI & Full-Stack Developer
+  <b>B.Tech CSE-AIML • AI & Full-Stack Developer</b>
 </p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=zaid1234-11&label=Profile%20Views&style=for-the-badge&color=0e75b6" alt="Profile Views">
 </p>
 
-<!-- Typing Animation -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Architects+Daughter&center=true&vCenter=true&duration=3000&color=38C2FF&size=27&height=100&width=850&lines=Heyyy!+I'm+Zaid+Saifi;AI+%26+Full-Stack+Developer;CSE-AIML+%7C+GenAI+%7C+Agentic+AI;Next.js+%7C+Python+%7C+FastAPI+%7C+PostgreSQL;Building+NEXUS+%7C+FinTrac+AI+%7C+CRUST;Turning+ideas+into+real+products+%F0%9F%9A%80">
-</p>
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </p>
 
 ---
@@ -45,7 +49,6 @@ I'm **Zaid Saifi**, a B.Tech **Computer Science & Engineering (AI & ML)** studen
 - 🚀 Deploying products using **Vercel, Render & cloud infrastructure**
 - 🧪 Interested in **AI evaluation, inference optimization & local-first systems**
 - 🎬 Also a **video editor** and creative-tech enthusiast
-- 🏗️ Currently building products, experiments and AI systems rather than just tutorials
 
 > **I like turning an idea into something people can actually use.**
 
@@ -56,8 +59,6 @@ I'm **Zaid Saifi**, a B.Tech **Computer Science & Engineering (AI & ML)** studen
 ### 🧠 NEXUS — Local AI Agent Infrastructure
 
 A **local-first desktop agent architecture** focused on making AI agents safer, more controllable and verifiable.
-
-**Core ideas:**
 
 - 🧩 Agent planning & reasoning
 - 🛠️ Typed tool execution
@@ -77,11 +78,7 @@ Currently exploring **NEXUS ShareGuard**, a local trust layer designed to verify
 
 An AI-powered personal finance platform designed to turn messy financial data into structured insights.
 
-**Built with:**
-
-`Next.js` `React` `Tailwind CSS` `Supabase` `Clerk` `Python` `FastAPI` `LLMs`
-
-Features include:
+**Built with:** `Next.js` `React` `Tailwind CSS` `Supabase` `Clerk` `Python` `FastAPI` `LLMs`
 
 - 📱 Transaction enrichment
 - 🧾 Bank statement ingestion
@@ -100,11 +97,7 @@ Features include:
 
 A hyperlocal multi-vendor food ordering platform focused initially on **Ghaziabad / NCR**.
 
-Built for students, bachelors and young professionals looking for local food without unnecessary complexity.
-
-**Tech:**
-
-`Next.js` `React` `Capacitor` `PostgreSQL` `Cashfree` `Cloudflare R2` `Vercel`
+**Tech:** `Next.js` `React` `Capacitor` `PostgreSQL` `Cashfree` `Cloudflare R2` `Vercel`
 
 🌐 **Customer Web:** https://crust-customer-web.vercel.app/
 
@@ -114,8 +107,6 @@ Built for students, bachelors and young professionals looking for local food wit
 
 A modern web project focused on building a fast, visually polished experience while aggressively optimizing performance.
 
-Currently exploring:
-
 - ⚡ Lighthouse optimization
 - 🎨 Motion & interaction design
 - 📦 JavaScript performance
@@ -124,10 +115,6 @@ Currently exploring:
 - 🧠 AI-assisted development
 
 ---
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-</p>
 
 ## 🧰 Tech Stack
 
@@ -156,9 +143,7 @@ Currently exploring:
 </p>
 
 <p align="center">
-
-`OpenAI` • `Google Gemini` • `Claude` • `Groq` • `Ollama` • `Llama` • `Qwen` • `Transformers`
-
+  <code>OpenAI</code> • <code>Google Gemini</code> • <code>Claude</code> • <code>Groq</code> • <code>Ollama</code> • <code>Llama</code> • <code>Qwen</code> • <code>Transformers</code>
 </p>
 
 ### ☁️ DevOps & Tools
@@ -198,10 +183,6 @@ Creative Technology
 
 ---
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-</p>
-
 ## 📊 GitHub Statistics
 
 <p align="center">
@@ -222,28 +203,19 @@ Creative Technology
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/zaid1234-11/zaid1234-11/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake"/>
+  <img src="https://raw.githubusercontent.com/zaid1234-11/zaid1234-11/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" width="100%"/>
 </p>
 
 ---
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-</p>
-
 ## 🌐 Find Me Online
 
 <p align="center">
-  <a href="https://www.zaidsportfolio.in/" target="_blank">
+  <a href="https://www.zaidsportfolio.in/">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
-  &nbsp;
-  <a href="https://github.com/zaid1234-11" target="_blank">
+  <a href="https://github.com/zaid1234-11">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  &nbsp;
-  <a href="https://www.linkedin.com/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
 
@@ -266,10 +238,6 @@ Creative Technology
 </p>
 
 ---
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-</p>
 
 <p align="center">
   <b>⚡ Building • Learning • Shipping • Repeating ⚡</b>
