@@ -1,4 +1,6 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,50:38C2FF,100:00D4FF&height=200&section=header&text=Zaid%20Saifi&fontSize=52&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=AI%20%26%20Full-Stack%20Developer%20%7C%20CSE-AIML&descSize=16&descAlignY=55" width="100%"/>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:6C63FF,50:38C2FF,100:00D4FF&amp;height=200&amp;section=header&amp;text=Zaid%20Saifi&amp;fontSize=52&amp;fontColor=ffffff&amp;animation=twinkling&amp;fontAlignY=35&amp;desc=AI%20%26%20Full-Stack%20Developer%20%7C%20CSE-AIML&amp;descSize=16&amp;descAlignY=55" width="100%"/>
+</p>
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -9,30 +11,15 @@
 </h3>
 
 <p align="center">
-  <a href="https://www.zaidsportfolio.in/">
-    <img src="https://img.shields.io/badge/Portfolio-zaidsportfolio.in-111827?style=for-the-badge&logo=vercel&logoColor=white"/>
-  </a>
-  <a href="https://github.com/zaid1234-11">
-    <img src="https://img.shields.io/badge/GitHub-zaid1234--11-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
+  <b>B.Tech CSE-AIML • AI &amp; Full-Stack Developer</b>
 </p>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-</p>
-
-<h3 align="center">Hey there, fellow &lt;developers /&gt;! 👋</h3>
-
-<p align="center">
-  <b>B.Tech CSE-AIML • AI & Full-Stack Developer</b>
+  <img src="https://komarev.com/ghpvc/?username=zaid1234-11&amp;label=Profile%20Views&amp;style=for-the-badge&amp;color=0e75b6" alt="Profile Views">
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=zaid1234-11&label=Profile%20Views&style=for-the-badge&color=0e75b6" alt="Profile Views">
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Architects+Daughter&center=true&vCenter=true&duration=3000&color=38C2FF&size=27&height=100&width=850&lines=Heyyy!+I'm+Zaid+Saifi;AI+%26+Full-Stack+Developer;CSE-AIML+%7C+GenAI+%7C+Agentic+AI;Next.js+%7C+Python+%7C+FastAPI+%7C+PostgreSQL;Building+NEXUS+%7C+FinTrac+AI+%7C+CRUST;Turning+ideas+into+real+products+%F0%9F%9A%80">
+  <img src="https://readme-typing-svg.demolab.com?font=Architects+Daughter&amp;center=true&amp;vCenter=true&amp;duration=3000&amp;color=38C2FF&amp;size=27&amp;height=100&amp;width=850&amp;lines=Heyyy!+I'm+Zaid+Saifi;AI+%26+Full-Stack+Developer;CSE-AIML+%7C+GenAI+%7C+Agentic+AI;Next.js+%7C+Python+%7C+FastAPI+%7C+PostgreSQL;Building+NEXUS+%7C+FinTrac+AI+%7C+CRUST;Turning+ideas+into+real+products+%F0%9F%9A%80">
 </p>
 
 ---
