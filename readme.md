@@ -1,11 +1,11 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,50:38C2FF,100:00D4FF&height=200&section=header&text=Zaid%20Saifi&fontSize=52&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=AI%20%26%20Full-Stack%20Developer%20%7C%20CSE-AIML&descSize=16&descAlignY=55" width="100%"/>
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,50:38C2FF,100:00D4FF&height=180&section=header" width="100%"/>
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </p>
 
-<h1 align="center">Hi 👋, I'm Zaid Saifi</h1>
-
 <h3 align="center">
-  AI & Full-Stack Developer • CSE-AIML • Building Intelligent Products
+  Hey there, fellow &lt;developers /&gt;! 👋
 </h3>
 
 <p align="center">
