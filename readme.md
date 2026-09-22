@@ -1,1016 +1,276 @@
-<!-- ========================================================= -->
-<!--                  ZAID SAIFI • GITHUB PROFILE              -->
-<!-- ========================================================= -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Zaid%20Saifi&fontSize=52&fontColor=fff&animation=twinkling&fontAlignY=35&desc=AI%20%26%20Full-Stack%20Developer%20%7C%20CSE-AIML%20%7C%20Building%20Intelligent%20Products&descSize=17&descAlignY=57" width="100%"/>
 
-<div align="center">
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</p>
 
-<img src="./assets/hero.svg" width="100%" alt="Hero illustration"/>
+<!-- Hero -->
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHJncWxqcWF1a3hhMTFyMmM5bTg3OGh6bWYxbnVqaGE2MHNqa3dkaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jTNG3RF6EwbkpD4LZx/giphy.gif" width="100%"/>
+</p>
 
-<br><br>
+<h3 align="center">
+  Hey there, fellow &lt;developers /&gt;! 
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"/>
+</h3>
 
-<table>
-<tr>
-<td>
-<a href="https://www.zaidsportfolio.in">
-<img src="https://img.shields.io/badge/Portfolio-Visit-black?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-</td>
-<td>
-<a href="https://github.com/zaid1234-11">
-<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-</td>
-<td>
-<a href="https://www.linkedin.com/in/zaidsaifi">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-</td>
-</tr>
-</table>
+<p align="center">
+  <b>Zaid Saifi</b> • B.Tech CSE-AIML • AI & Full-Stack Developer
+</p>
 
-</div>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=zaid1234-11&label=Profile%20Views&style=for-the-badge&color=0e75b6" alt="Profile Views">
+</p>
 
----
+<!-- Typing Animation -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Architects+Daughter&center=true&vCenter=true&duration=3000&color=38C2FF&size=27&height=100&width=850&lines=Heyyy!+I'm+Zaid+Saifi;AI+%26+Full-Stack+Developer;CSE-AIML+%7C+GenAI+%7C+Agentic+AI;Next.js+%7C+Python+%7C+FastAPI+%7C+PostgreSQL;Building+NEXUS+%7C+FinTrac+AI+%7C+CRUST;Turning+ideas+into+real+products+%F0%9F%9A%80">
+</p>
 
-<div align="center">
-
-<table>
-
-<tr>
-
-<td width="33%" align="center">
-
-## Design
-
-I enjoy creating interfaces that feel effortless, elegant and intentional.
-
-</td>
-
-<td width="33%" align="center">
-
-## Engineering
-
-Building scalable products with modern architecture and clean code.
-
-</td>
-
-<td width="33%" align="center">
-
-## Intelligence
-
-Using AI to build products that solve meaningful real-world problems.
-
-</td>
-
-</tr>
-
-</table>
-
-</div>
-
-<br>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</p>
 
 ---
 
-<img src="./assets/divider.svg" width="100%"/>
+## 👨‍💻 About Me
 
-<br>
+I'm **Zaid Saifi**, a B.Tech **Computer Science & Engineering (AI & ML)** student who enjoys building products at the intersection of **AI, software engineering, and real-world problem solving**.
 
-# Hello.
+- 🎓 B.Tech CSE-AIML @ **ABES Engineering College**
+- 🤖 Building with **Generative AI, LLMs & Agentic AI**
+- 🧠 Exploring **local AI, computer-use agents & AI safety**
+- 💻 Full-stack development with **Next.js, React, Python & FastAPI**
+- 🗄️ Working with **PostgreSQL, Supabase, Neon & SQLite**
+- 🚀 Deploying products using **Vercel, Render & cloud infrastructure**
+- 🧪 Interested in **AI evaluation, inference optimization & local-first systems**
+- 🎬 Also a **video editor** and creative-tech enthusiast
+- 🏗️ Currently building products, experiments and AI systems rather than just tutorials
 
-I’m **Zaid Saifi**, a frontend engineer passionate about creating products that blend engineering, design, and artificial intelligence into seamless user experiences.
-
-I enjoy turning ambitious ideas into polished applications—whether it's designing immersive interfaces, architecting scalable systems, or building AI-powered products that people genuinely enjoy using.
-
-Rather than focusing only on features, I focus on creating products that feel intuitive, performant, and memorable.
-
-<br>
-
----
-
-# What I Believe
-
-<table>
-
-<tr>
-
-<td width="50%">
-
-### Simplicity is engineered.
-
-Simple products are rarely simple to build.
-
-Thoughtful architecture, reusable systems, and careful iteration create experiences that feel effortless.
-
-</td>
-
-<td width="50%">
-
-### Motion has meaning.
-
-Animations should explain, guide, and improve usability—not exist for decoration.
-
-Every transition should make the interface easier to understand.
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%">
-
-### Design systems scale.
-
-Components should be reusable.
-
-Layouts should be predictable.
-
-Consistency builds trust.
-
-</td>
-
-<td width="50%">
-
-### Performance matters.
-
-Beautiful interfaces should also load quickly.
-
-Fast software is better software.
-
-</td>
-
-</tr>
-
-</table>
-
-<br>
-
-<img src="./assets/divider.svg" width="100%"/>
-
-<br>
-
-# Currently Exploring
-
-<table>
-
-<tr>
-
-<td align="center">
-
-🧠
-
-### AI Products
-
-Building AI-native software that feels useful instead of gimmicky.
-
-</td>
-
-<td align="center">
-
-✨
-
-### Motion Design
-
-Crafting interfaces inspired by Apple, Linear and modern product design.
-
-</td>
-
-<td align="center">
-
-⚡
-
-### Frontend Architecture
-
-Reusable systems, scalable components, accessibility and performance.
-
-</td>
-
-</tr>
-
-</table>
-
-<br>
+> **I like turning an idea into something people can actually use.**
 
 ---
 
-<div align="center">
+## 🚀 What I'm Building
 
-> *"The best interfaces disappear.
-Only the experience remains."*
+### 🧠 NEXUS — Local AI Agent Infrastructure
 
-</div>
+A **local-first desktop agent architecture** focused on making AI agents safer, more controllable and verifiable.
 
-<br>
+**Core ideas:**
 
-<img src="./assets/divider.svg" width="100%"/>
+- 🧩 Agent planning & reasoning
+- 🛠️ Typed tool execution
+- 🔐 Policy & safety enforcement
+- 👁️ Computer-use / GUI interaction
+- ✅ Action verification
+- 🔄 Recovery & bounded execution
+- 🧠 Persistent & session memory
+- ⚡ Local LLM inference
+- 📊 Agent evaluation & benchmarking
 
-<!-- ================= PART 1 ENDS HERE ================= -->
-<!-- ================= PART 2 : FEATURED WORK ================= -->
-
-<br>
-
-<div align="center">
-
-# Selected Work
-
-### Products built with engineering, interaction design, and AI.
-
-</div>
-
-<br>
-
-<table>
-<tr>
-
-<td width="100%">
-
-<a href="https://github.com/zaid1234-11/fintrac-ai-landing">
-
-<img src="./assets/projects/fintrac.svg" width="100%"/>
-
-</a>
-
-<br>
-
-## FinTrac AI
-
-### Financial Intelligence Operating System
-
-Instead of showing charts, FinTrac helps people understand what to do next.
-
-It combines transaction intelligence, behavioral analysis, forecasting, and AI recommendations into one decision engine.
-
-<br>
-
-**Highlights**
-
-- AI-powered financial insights
-- Smart categorization
-- Recommendation Engine
-- Financial forecasting
-- Modern dashboard
-- Beautiful UX
-- Explainable AI
-
-<br>
-
-**Stack**
-
-`Next.js`
-`TypeScript`
-`Tailwind`
-`Supabase`
-`Clerk`
-`AI`
-
-</td>
-
-</tr>
-
-</table>
-
-<br><br>
-
-<table>
-<tr>
-
-<td width="100%">
-
-<a href="https://github.com/zaid1234-11">
-
-<img src="./assets/projects/retrolab.svg" width="100%"/>
-
-</a>
-
-<br>
-
-## RetroLab
-
-### Creative Image Processing Platform
-
-RetroLab transforms ordinary photos into nostalgic digital artwork.
-
-Generate **ASCII**, **Dithering**, **Pixel Art**, and other retro-inspired styles, then share your creations with the community, participate in weekly challenges, and discover work from other creators.
-
-<br>
-
-**Highlights**
-
-- Image transformations
-- ASCII Generator
-- Dithering Engine
-- Pixel Art
-- Community Gallery
-- Weekly Challenges
-- Image Sharing Platform
-
-<br>
-
-**Stack**
-
-`React`
-`TypeScript`
-`Canvas`
-`WebGL`
-`Image Processing`
-
-</td>
-
-</tr>
-
-</table>
-
-<br><br>
-
-<table>
-<tr>
-
-<td width="100%">
-
-<a href="https://github.com/zaid1234-11">
-
-<img src="./assets/projects/salessphere.svg" width="100%"/>
-
-</a>
-
-<br>
-
-## SalesSphere
-
-### Enterprise Sales Intelligence
-
-SalesSphere transforms raw sales data into meaningful business intelligence through interactive dashboards, analytics, and performance monitoring.
-
-Designed to demonstrate enterprise frontend architecture and large-scale data visualization.
-
-<br>
-
-**Highlights**
-
-- Interactive dashboards
-- ETL pipeline
-- KPI monitoring
-- Revenue analytics
-- Responsive charts
-- Enterprise UI
-
-<br>
-
-**Stack**
-
-`React`
-`Vite`
-`TypeScript`
-`Tailwind`
-`Recharts`
-
-</td>
-
-</tr>
-
-</table>
-
-<br><br>
-
-<table>
-<tr>
-
-<td width="100%">
-
-<a href="https://www.zaidsportfolio.in">
-
-<img src="./assets/projects/portfolio.svg" width="100%"/>
-
-</a>
-
-<br>
-
-## Personal Portfolio
-
-### Product Design × Engineering
-
-A portfolio designed as an immersive product experience instead of a traditional website.
-
-Inspired by Apple, Linear, Raycast, and Vercel with cinematic layouts, motion, and storytelling.
-
-<br>
-
-**Highlights**
-
-- Scroll storytelling
-- Motion design
-- Case studies
-- Responsive UI
-- Design systems
-- Product thinking
-
-<br>
-
-**Stack**
-
-`Next.js`
-
-`Framer Motion`
-
-`Tailwind`
-
-`TypeScript`
-
-</td>
-
-</tr>
-
-</table>
-
-<br>
+Currently exploring **NEXUS ShareGuard**, a local trust layer designed to verify what an AI agent is about to do before sensitive actions are executed.
 
 ---
 
-<br>
+### 💰 FinTrac AI
 
-<div align="center">
+An AI-powered personal finance platform designed to turn messy financial data into structured insights.
 
-# Every project begins with one question.
+**Built with:**
 
-## "Will someone genuinely enjoy using this?"
+`Next.js` `React` `Tailwind CSS` `Supabase` `Clerk` `Python` `FastAPI` `LLMs`
 
-Everything else follows from that.
+Features include:
 
-</div>
+- 📱 Transaction enrichment
+- 🧾 Bank statement ingestion
+- 💬 SMS transaction parsing
+- 🏪 Merchant canonicalization
+- 📊 Financial insights
+- 🔐 Authentication & user accounts
 
-<br>
+🌐 **Live:** https://fintrac-ai-landing.vercel.app/
 
 ---
 
-<img src="./assets/divider.svg" width="100%"/>
+### 🍔 CRUST
 
-<br>
+**GOOD FOOD. CLOSER TO YOU.**
 
-# Design Process
+A hyperlocal multi-vendor food ordering platform focused initially on **Ghaziabad / NCR**.
 
-<table>
+Built for students, bachelors and young professionals looking for local food without unnecessary complexity.
 
-<tr>
+**Tech:**
 
-<td align="center" width="25%">
+`Next.js` `React` `Capacitor` `PostgreSQL` `Cashfree` `Cloudflare R2` `Vercel`
 
-## 01
+🌐 **Customer Web:** https://crust-customer-web.vercel.app/
 
-Research
+---
 
-Understanding the problem before writing code.
+### 🚀 AdRocket
 
-</td>
+A modern web project focused on building a fast, visually polished experience while aggressively optimizing performance.
 
-<td align="center" width="25%">
+Currently exploring:
 
-## 02
+- ⚡ Lighthouse optimization
+- 🎨 Motion & interaction design
+- 📦 JavaScript performance
+- 🖼️ Rendering optimization
+- 📱 Responsive experiences
+- 🧠 AI-assisted development
 
-Design
+---
 
-Creating intuitive experiences and scalable systems.
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</p>
 
-</td>
+## 🧰 Tech Stack
 
-<td align="center" width="25%">
+### 💻 Languages
 
-## 03
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,js,ts,java,cpp,html,css" />
+</p>
 
-Engineer
+### ⚛️ Frontend
 
-Transforming ideas into performant software.
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,framer" />
+</p>
 
-</td>
+### ⚙️ Backend & Databases
 
-<td align="center" width="25%">
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=fastapi,nodejs,postgres,supabase,sqlite" />
+</p>
 
-## 04
+### 🤖 AI / ML / LLM
 
-Iterate
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,huggingface" />
+</p>
 
-Ship.
+<p align="center">
 
-Measure.
+`OpenAI` • `Google Gemini` • `Claude` • `Groq` • `Ollama` • `Llama` • `Qwen` • `Transformers`
 
-Improve.
+</p>
 
-Repeat.
+### ☁️ DevOps & Tools
 
-</td>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,docker,vercel,render,linux,vscode,postman" />
+</p>
 
-</tr>
+---
 
-</table>
+## 🧠 Areas I Like Working In
 
-<br>
+```text
+Artificial Intelligence
+├── Generative AI
+├── LLM Applications
+├── Agentic AI
+├── Local LLMs
+├── AI Agents
+├── Computer Use
+└── AI Safety & Evaluation
 
-<div align="center">
+Software Engineering
+├── Full-Stack Development
+├── API Design
+├── Backend Systems
+├── Database Architecture
+├── Authentication
+└── Cloud Deployment
 
-> Great products are never finished.
->
-> They simply become better with every iteration.
+Creative Technology
+├── UI/UX
+├── Motion Design
+├── Video Editing
+└── Product Design
+```
 
-</div>
+---
 
-<br>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</p>
 
-<img src="./assets/divider.svg" width="100%"/>
+## 📊 GitHub Statistics
 
-<!-- ================= PART 2 ENDS HERE ================= -->
-<!-- ================= PART 3 : TECHNOLOGIES ================= -->
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=zaid1234-11&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=zaid1234-11&theme=tokyonight&hide_border=true" />
+</p>
 
-<br>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=zaid1234-11&theme=tokyo-night&hide_border=true" width="100%" />
+</p>
 
-<div align="center">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zaid1234-11&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" />
+</p>
 
-# Tools I Build With
+---
 
-### Technology should serve the product, never become the product.
+## 🐍 Contribution Snake
 
-</div>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/zaid1234-11/zaid1234-11/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake"/>
+</p>
 
-<br>
+---
 
-<table>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</p>
 
-<tr>
+## 🌐 Find Me Online
 
-<td width="25%" align="center">
+<p align="center">
+  <a href="https://www.zaidsportfolio.in/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="https://github.com/zaid1234-11" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
 
-## Frontend
+<p align="center">
+  <i>Always open to building interesting things, collaborating on ambitious ideas, and talking about AI.</i>
+</p>
 
-React
+---
 
-Next.js
+## 💭 Developer Philosophy
 
-TypeScript
+<p align="center">
 
-Tailwind CSS
+### "Don't just build demos. Build things that can survive outside the demo."
 
-Framer Motion
+</p>
 
-</td>
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</p>
 
-<td width="25%" align="center">
+---
 
-## Backend
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</p>
 
-Node.js
-
-Express
-
-Supabase
-
-PostgreSQL
-
-REST APIs
-
-</td>
-
-<td width="25%" align="center">
-
-## Artificial Intelligence
-
-OpenAI
-
-Gemini
-
-Hugging Face
-
-Ollama
-
-Prompt Engineering
-
-</td>
-
-<td width="25%" align="center">
-
-## Design
-
-Figma
-
-Penpot
-
-Motion Design
-
-Design Systems
-
-UI / UX
-
-</td>
-
-</tr>
-
-</table>
-
-<br>
-
-<div align="center">
-
-> Every tool is chosen for a reason.  
-> Simplicity is a consequence of good engineering.
-
-</div>
-
-<br>
-
-<img src="./assets/divider.svg" width="100%"/>
-
-<!-- ================= GITHUB ================= -->
-
-<br>
-
-<div align="center">
-
-# Engineering in Numbers
-
-### Continuous learning through building.
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img
-height="180"
-src="https://github-readme-stats.vercel.app/api?username=zaid1234-11&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=transparent"/>
-
-<img
-height="180"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=zaid1234-11&layout=compact&hide_border=true&theme=transparent"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img
-width="100%"
-src="https://github-readme-streak-stats.herokuapp.com?user=zaid1234-11&theme=transparent&hide_border=true"/>
-
-</div>
-
-<br>
-
-<img src="./assets/divider.svg" width="100%"/>
-
-<!-- ================= ACTIVITY ================= -->
-
-<br>
-
-<div align="center">
-
-# Activity
-
-### Building consistently, one commit at a time.
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img
-width="100%"
-src="https://github-readme-activity-graph.vercel.app/graph?username=zaid1234-11&theme=github-compact&hide_border=true"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<picture>
-
-<source
-media="(prefers-color-scheme: dark)"
-srcset="https://raw.githubusercontent.com/zaid1234-11/zaid1234-11/output/github-contribution-grid-snake-dark.svg"/>
-
-<img
-alt="Contribution Snake"
-src="https://raw.githubusercontent.com/zaid1234-11/zaid1234-11/output/github-contribution-grid-snake.svg"/>
-
-</picture>
-
-</div>
-
-<br>
-
-<img src="./assets/divider.svg" width="100%"/>
-
-<!-- ================= JOURNEY ================= -->
-
-<br>
-
-<div align="center">
-
-# Journey
-
-### Every project teaches something new.
-
-</div>
-
-<br>
-
-<table>
-
-<tr>
-
-<td width="25%" align="center">
-
-## 2023
-
-Started exploring
-
-Frontend
-
-HTML
-
-CSS
-
-JavaScript
-
-</td>
-
-<td width="25%" align="center">
-
-## 2024
-
-Built projects
-
-Learned React
-
-UI Design
-
-Animations
-
-</td>
-
-<td width="25%" align="center">
-
-## 2025
-
-AI
-
-Full Stack
-
-Product Thinking
-
-Design Systems
-
-</td>
-
-<td width="25%" align="center">
-
-## 2026
-
-Building products
-
-Open Source
-
-Scalable Systems
-
-Meaningful Experiences
-
-</td>
-
-</tr>
-
-</table>
-
-<br>
-
-<div align="center">
-
-> Learn. Build. Refine. Repeat.
-
-</div>
-
-<br>
-
-<img src="./assets/divider.svg" width="100%"/>
-
-<!-- ================= CURRENT ================= -->
-
-<br>
-
-<div align="center">
-
-# Current Focus
-
-</div>
-
-<br>
-
-<table>
-
-<tr>
-
-<td width="33%" align="center">
-
-## FinTrac AI
-
-Building a financial operating system that helps people make better decisions instead of simply tracking expenses.
-
-</td>
-
-<td width="33%" align="center">
-
-## RetroLab
-
-Creating an image processing platform combining AI transformations, creativity, and community-driven competitions.
-
-</td>
-
-<td width="33%" align="center">
-
-## Product Design
-
-Improving interaction quality through thoughtful motion, design systems, and frontend architecture.
-
-</td>
-
-</tr>
-
-</table>
-
-<br>
-
-<img src="./assets/divider.svg" width="100%"/>
-
-<!-- ================= PART 3 ENDS HERE ================= -->
-<!-- ================= PART 4 : CONNECT ================= -->
-
-<br>
-
-<div align="center">
-
-# Let's Build Something Meaningful
-
-I enjoy collaborating on products that combine thoughtful design,
-modern engineering, and artificial intelligence.
-
-Whether it's an open source project,
-a startup idea,
-or simply exchanging ideas—
-
-I'm always happy to connect.
-
-</div>
-
-<br>
-
-<img src="./assets/divider.svg" width="100%"/>
-
-<br>
-
-<div align="center">
-
-# Beyond Code
-
-</div>
-
-<table>
-
-<tr>
-
-<td width="25%" align="center">
-
-🎨
-
-### Product Design
-
-Designing interfaces that feel intuitive,
-minimal,
-and purposeful.
-
-</td>
-
-<td width="25%" align="center">
-
-⚡
-
-### Frontend
-
-Creating fast,
-responsive,
-and accessible web experiences.
-
-</td>
-
-<td width="25%" align="center">
-
-🤖
-
-### Artificial Intelligence
-
-Exploring practical AI systems
-that solve meaningful problems.
-
-</td>
-
-<td width="25%" align="center">
-
-🚀
-
-### Continuous Learning
-
-Always experimenting,
-building,
-and improving.
-
-</td>
-
-</tr>
-
-</table>
-
-<br>
-
-<img src="./assets/divider.svg" width="100%"/>
-
-<br>
-
-<div align="center">
-
-# Current Mission
-
-> Build software that people enjoy using.
-
-> Design interfaces that disappear into the experience.
-
-> Keep learning.
-
-> Keep shipping.
-
-</div>
-
-<br>
-
-<img src="./assets/divider.svg" width="100%"/>
-
-<br>
-
-<div align="center">
-
-<img src="./assets/logo.svg" width="90"/>
-
-<br><br>
-
-# Zaid Saifi
-
-### Frontend Engineer • Product Designer • AI Builder
-
-<br>
-
-*"The best products are remembered not because they are complex,
-but because they make complexity disappear."*
-
-<br><br>
-
-<img src="./assets/footer.svg" width="100%"/>
-
-</div>
-
-<!-- ===================================================== -->
-<!--                  THANK YOU FOR SCROLLING               -->
-<!-- ===================================================== -->
-
-<!--
-
-If you're reading the source...
-
-Welcome 👋
-
-You looked beyond the interface.
-
-A few hidden notes:
-
-ZX-11
-
-FT-01
-
-RL-07
-
-SS-04
-
-PF-09
-
-Every project here started with curiosity.
-
-Every animation has a purpose.
-
-Every SVG was handcrafted to tell a story.
-
-The goal was never to build another GitHub profile.
-
-The goal was to build a product experience.
-
-See you in the next commit.
-
--->
-
-<!-- ====================== END =========================== -->
+<p align="center">
+  <b>⚡ Building • Learning • Shipping • Repeating ⚡</b>
+</p>
